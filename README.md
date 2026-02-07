@@ -1,7 +1,10 @@
+# Estrutura do Projeto `com.example.hexagonal`
+
+```plaintext
 com.example.hexagonal
 ├── domain
-│   └── model
-│       └── Pedido.java
+│   ├── model
+│   │   └── Pedido.java
 │   └── service
 │       └── FreteService.java
 ├── application
